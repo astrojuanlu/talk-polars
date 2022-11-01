@@ -1,10 +1,6 @@
-aiohttp
 jupyterlab
 kaggle
 pandas
-polars==0.13.38
-pyarrow==7.0
+polars==0.14.24
 requests
 seaborn
-vaex-core==4.9.0
-vaex-viz

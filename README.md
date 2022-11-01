@@ -1,18 +1,15 @@
-# Beyond pandas: The great Python dataframe showdown
+# Expressive and fast dataframes in Python with polars
 
-Talk "Beyond pandas: The great Python dataframe showdown" plus demo Orchest pipelines.
+Talk "Expressive and fast dataframes in Python with polars" plus demo Orchest pipelines.
 
-[![Open in Orchest](https://github.com/orchest/orchest-examples/raw/main/imgs/open_in_orchest.svg)](https://cloud.orchest.io/?import_url=https://github.com/astrojuanlu/talk-dataframes/)
+[![Open in Orchest](https://github.com/orchest/orchest-examples/raw/main/imgs/open_in_orchest.svg)](https://cloud.orchest.io/?import_url=https://github.com/astrojuanlu/talk-polars/)
 
-Slides: https://nbviewer.org/format/slides/github/astrojuanlu/talk-dataframes/blob/main/slides.ipynb
+Slides: https://nbviewer.org/format/slides/github/astrojuanlu/talk-polars/blob/main/slides.ipynb
 
-Support blog posts:
+Check out [The great Python dataframe showdown, part 3: Lightning-fast queries with Polars](https://www.orchest.io/blog/the-great-python-dataframe-showdown-part-3-lightning-fast-queries-with-polars)
+for more background.
 
-- [The great Python dataframe showdown, part 1: Demystifying Apache Arrow](https://www.orchest.io/blog/the-great-python-dataframe-showdown-part-1-demystifying-apache-arrow)
-- [The great Python dataframe showdown, part 2: out-of-core processing with Vaex](https://www.orchest.io/blog/the-great-python-dataframe-showdown-part-2-out-of-core-processing-with-vaex)
-- [The great Python dataframe showdown, part 3: Lightning-fast queries with Polars](https://www.orchest.io/blog/the-great-python-dataframe-showdown-part-3-lightning-fast-queries-with-polars)
-
-![Pipeline visualization](https://pviz.orchest.io/?pipeline=https://github.com/astrojuanlu/talk-dataframes/blob/master/main.orchest)
+![Pipeline visualization](https://pviz.orchest.io/?pipeline=https://github.com/astrojuanlu/talk-polars/blob/master/main.orchest)
 
 ## Slides
 
