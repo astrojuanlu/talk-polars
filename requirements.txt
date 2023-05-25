@@ -2,6 +2,6 @@ graphviz
 jupyterlab
 kaggle
 pandas
-polars==0.14.24
+polars~=0.17.15
 requests
 seaborn

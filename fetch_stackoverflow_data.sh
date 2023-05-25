@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
-# From https://github.com/astrojuanlu/orchest-polars/blob/master/fetch-data.sh
 # Linted with https://www.shellcheck.net/
 
-export KAGGLE_USERNAME=$KAGGLE_API_USERNAME
-export KAGGLE_KEY=$KAGGLE_API_KEY
-export DATA_DIR=/data/stacksample
+export KAGGLE_USERNAME=$KAGGLE_USERNAME
+export KAGGLE_KEY=$KAGGLE_KEY
+export DATA_DIR=./data/01_raw
 
 mkdir -p $DATA_DIR
 if [ "$(find $DATA_DIR -name '*.csv' -type f -printf '.' | wc -c)" != "2" ]
